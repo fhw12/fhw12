@@ -1,5 +1,6 @@
 ![fhw12's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhw12&show_icons=true&theme=transparent)
 
+![fhw12's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fhw12&langs_count=10)
 <!--
 **fhw12/fhw12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
